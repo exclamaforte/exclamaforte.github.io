@@ -1,4 +1,4 @@
-baseURL: 'exclamaforte.github.io'
+baseURL: 'https://exclamaforte.github.io'
 languageCode: 'en-us'
 title: 'Gabriel Ferns'
 theme: 'PaperMod'
