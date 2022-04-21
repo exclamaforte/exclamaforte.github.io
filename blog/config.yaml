@@ -59,3 +59,7 @@ menu:
       name: tags
       url: /tags/
       weight: 20
+    - identifier: archive
+      name: archive
+      url: /archive/
+      weight: 20
