@@ -54,12 +54,12 @@ menu:
     - identifier: categories
       name: categories
       url: /categories/
-      weight: 10
+      weight: 20
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 20
-    - identifier: archive
-      name: archive
-      url: /archive/
-      weight: 20
+      weight: 30
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 10
