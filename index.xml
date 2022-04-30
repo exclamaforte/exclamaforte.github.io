@@ -6,27 +6,14 @@
     <description>Recent content on Gabriel Ferns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Apr 2022 20:59:16 -0700</lastBuildDate><atom:link href="https://exclamaforte.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dueling Ontologies</title>
-      <link>https://exclamaforte.github.io/posts/dueling-ontologies/</link>
-      <pubDate>Fri, 29 Apr 2022 20:59:16 -0700</pubDate>
-      
-      <guid>https://exclamaforte.github.io/posts/dueling-ontologies/</guid>
-      <description>hello world this is some text
-title 1 title 2 bold text italic
- blockquote
-  arst tsra   first second  code 1
-template&amp;lt;long FROM, long TO&amp;gt; class Range { public:  // member typedefs provided through inheriting from std::iterator  class iterator: public std::iterator&amp;lt;  std::input_iterator_tag, // iterator_category  long, // value_type  long, // difference_type  const long*, // pointer  long // reference  &amp;gt;{  long num = FROM;  public:  explicit iterator(long _num = 0) : num(_num) {}  iterator&amp;amp; operator++() {num = TO &amp;gt;= FROM ?</description>
-    </item>
-    
+    <lastBuildDate>Thu, 21 Apr 2022 01:03:52 -0700</lastBuildDate><atom:link href="https://exclamaforte.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://exclamaforte.github.io/about/</link>
       <pubDate>Thu, 21 Apr 2022 01:03:52 -0700</pubDate>
       
       <guid>https://exclamaforte.github.io/about/</guid>
-      <description>I&amp;rsquo;m a noodle.</description>
+      <description>I work on ML Accelerators at groq. All views are my own.</description>
     </item>
     
     <item>
@@ -35,15 +22,6 @@ template&amp;lt;long FROM, long TO&amp;gt; class Range { public:  // member type
       <pubDate>Thu, 21 Apr 2022 01:03:52 -0700</pubDate>
       
       <guid>https://exclamaforte.github.io/projects/my-first-project/</guid>
-      <description>Hello World The standard Lorem Ipsum passage, used since the 1500s &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://exclamaforte.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 20 Apr 2022 23:28:56 -0700</pubDate>
-      
-      <guid>https://exclamaforte.github.io/posts/my-first-post/</guid>
       <description>Hello World The standard Lorem Ipsum passage, used since the 1500s &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
