@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Gabriel Ferns</title>
-    <link>https://exclamaforte.github.io/posts/</link>
-    <description>Recent content in Posts on Gabriel Ferns</description>
+    <title>psychology on Gabriel Ferns</title>
+    <link>https://exclamaforte.github.io/categories/psychology/</link>
+    <description>Recent content in psychology on Gabriel Ferns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Apr 2022 20:59:16 -0700</lastBuildDate><atom:link href="https://exclamaforte.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Apr 2022 20:59:16 -0700</lastBuildDate><atom:link href="https://exclamaforte.github.io/categories/psychology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dueling Ontologies</title>
       <link>https://exclamaforte.github.io/posts/dueling-ontologies/</link>
@@ -18,15 +18,6 @@ title 1 title 2 bold text italic
  blockquote
   arst tsra   first second  code 1
 template&amp;lt;long FROM, long TO&amp;gt; class Range { public:  // member typedefs provided through inheriting from std::iterator  class iterator: public std::iterator&amp;lt;  std::input_iterator_tag, // iterator_category  long, // value_type  long, // difference_type  const long*, // pointer  long // reference  &amp;gt;{  long num = FROM;  public:  explicit iterator(long _num = 0) : num(_num) {}  iterator&amp;amp; operator++() {num = TO &amp;gt;= FROM ?</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://exclamaforte.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 20 Apr 2022 23:28:56 -0700</pubDate>
-      
-      <guid>https://exclamaforte.github.io/posts/my-first-post/</guid>
-      <description>Hello World The standard Lorem Ipsum passage, used since the 1500s &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
   </channel>
