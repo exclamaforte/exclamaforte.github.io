@@ -115,7 +115,7 @@ params:
 menu:
   main:
     - identifier: projects
-      name: tags
+      name: projects
       url: /tags/projects
       weight: 10
     - identifier: tags
