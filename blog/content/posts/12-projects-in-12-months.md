@@ -22,12 +22,12 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-cover:
-    image: "images/test.png" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+#cover:
+#    image: "images/test.png" # image path/url
+#    alt: "<alt text>" # alt text
+#    caption: "<text>" # display caption under cover
+#    relative: false # when using page bundles set this to true
+#    hidden: false # only hide on current single page
 ---
 
 Starting with January 2023, my goal is to ship 12 products in 12 months. I've been meaning to tackle this goal for awhile, and 2023 seems like the perfect time to start.
