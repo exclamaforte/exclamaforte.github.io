@@ -1,0 +1,64 @@
+---
+title: "12 Products in 12 Months \U0001F4C5"
+date: 2023-01-25T02:19:29-08:00
+draft: true
+tags: ["12in12"]
+author: "Me"
+#showToc: true
+#TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "12 Products in 12 months 2023"
+canonicalURL: "https://canonical.url/to/page"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+    image: "<image path/url>" # image path/url
+    alt: "<alt text>" # alt text
+    caption: "<text>" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: true # only hide on current single page
+---
+
+# Overview
+Starting with January 2023, my goal is to ship 12 products in 12 months. I've been meaning to tackle this goal for awhile, and 2023 seems like the perfect time to start.
+
+# Why not focus on one product?
+My goal is not to create the next [unicorn](https://en.wikipedia.org/wiki/Unicorn_(finance)), but rather to learn as much as I can about the technologies I'm interested in, while increasing my ability to [always be shipping](https://blog.codinghorror.com/yes-but-what-have-you-done/).
+
+# Learning Goals
+- [ ] [Basic Product Development](https://www.youtube.com/watch?v=poLzjLt2yqU)
+- [ ] Basic UI/UX
+- [ ] [Fine tuning LLMs](https://huggingface.co/docs/transformers/training)
+- [ ] ML Ops/Practitioning
+
+Learning these topics will generate more blog/youtube posts. Subscribe to this blog via [RSS](/index.xml) to keep up to date.
+
+# Calendar
+- TODO January
+- TODO February
+- TODO March
+- TODO April
+- TODO May
+- TODO June
+- TODO July
+- TODO August
+- TODO September
+- TODO October
+- TODO November
+- TODO December
+
+# Prior Art
+See other attempts at this challenge:
+- [levels io](https://levels.io/12-startups-12-months/)
+- [indie hackers thread](https://www.indiehackers.com/group/12-startups-in-12-months)

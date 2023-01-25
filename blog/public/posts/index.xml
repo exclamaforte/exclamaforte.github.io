@@ -19,5 +19,14 @@
       <description>12 Products in 12 months 2023</description>
     </item>
     
+    <item>
+      <title>Launching: </title>
+      <link>https://examplesite.com/posts/january-launch/</link>
+      <pubDate>Wed, 25 Jan 2023 02:19:29 -0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/january-launch/</guid>
+      <description>12 Products in 12 months 2023</description>
+    </item>
+    
   </channel>
 </rss>
