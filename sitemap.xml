@@ -2,24 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://exclamaforte.github.com/posts/12-projects-in-12-months/</loc>
+    <loc>https://exclamaforte.github.io/posts/12-projects-in-12-months/</loc>
     <lastmod>2023-01-25T02:19:29-08:00</lastmod>
   </url><url>
-    <loc>https://exclamaforte.github.com/tags/12in12/</loc>
+    <loc>https://exclamaforte.github.io/tags/12in12/</loc>
     <lastmod>2023-01-25T02:19:29-08:00</lastmod>
   </url><url>
-    <loc>https://exclamaforte.github.com/</loc>
+    <loc>https://exclamaforte.github.io/</loc>
     <lastmod>2023-01-25T02:19:29-08:00</lastmod>
   </url><url>
-    <loc>https://exclamaforte.github.com/posts/january-launch/</loc>
+    <loc>https://exclamaforte.github.io/posts/january-launch/</loc>
     <lastmod>2023-01-25T02:19:29-08:00</lastmod>
   </url><url>
-    <loc>https://exclamaforte.github.com/posts/</loc>
+    <loc>https://exclamaforte.github.io/posts/</loc>
     <lastmod>2023-01-25T02:19:29-08:00</lastmod>
   </url><url>
-    <loc>https://exclamaforte.github.com/tags/</loc>
+    <loc>https://exclamaforte.github.io/tags/projects/</loc>
     <lastmod>2023-01-25T02:19:29-08:00</lastmod>
   </url><url>
-    <loc>https://exclamaforte.github.com/categories/</loc>
+    <loc>https://exclamaforte.github.io/tags/</loc>
+    <lastmod>2023-01-25T02:19:29-08:00</lastmod>
+  </url><url>
+    <loc>https://exclamaforte.github.io/categories/</loc>
   </url>
 </urlset>

@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://exclamaforte.github.com/sitemap.xml
+Sitemap: https://exclamaforte.github.io/sitemap.xml

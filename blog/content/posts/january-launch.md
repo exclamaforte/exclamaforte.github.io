@@ -2,7 +2,7 @@
 title: "Launching: "
 date: 2023-01-25T02:19:29-08:00
 draft: true
-tags: ["12in12"]
+tags: ["12in12", "projects"]
 author: "Me"
 #showToc: true
 #TocOpen: false
@@ -29,3 +29,5 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
+
+lorum ipsum

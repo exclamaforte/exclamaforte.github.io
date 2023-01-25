@@ -1,4 +1,4 @@
-baseURL: "https://exclamaforte.github.com/"
+baseURL: "https://exclamaforte.github.io/"
 title: Blog
 paginate: 5
 theme: PaperMod
@@ -98,7 +98,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/exclamaforte.github.com/content"
+    URL: "https://github.com/exclamaforte.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -114,6 +114,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: projects
+      name: tags
+      url: /tags/projects
+      weight: 10
     - identifier: tags
       name: tags
       url: /tags/
