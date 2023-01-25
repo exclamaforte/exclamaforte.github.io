@@ -8,8 +8,8 @@ author: "Me"
 #TocOpen: false
 draft: false
 hidemeta: false
-comments: false
-description: "12 Products in 12 months 2023"
+comments: true
+#description: "12 Products in 12 months 2023"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
