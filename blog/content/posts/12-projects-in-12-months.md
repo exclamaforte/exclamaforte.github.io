@@ -23,24 +23,23 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
+    image: "images/test.png" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---
 
-# Overview
 Starting with January 2023, my goal is to ship 12 products in 12 months. I've been meaning to tackle this goal for awhile, and 2023 seems like the perfect time to start.
 
 # Why not focus on one product?
 My goal is not to create the next [unicorn](https://en.wikipedia.org/wiki/Unicorn_(finance)), but rather to learn as much as I can about the technologies I'm interested in, while increasing my ability to [always be shipping](https://blog.codinghorror.com/yes-but-what-have-you-done/).
 
 # Learning Goals
-- [ ] [Basic Product Development](https://www.youtube.com/watch?v=poLzjLt2yqU)
+- [x] [Basic Product Development](https://www.youtube.com/watch?v=poLzjLt2yqU)
 - [ ] Basic UI/UX
 - [ ] [Fine tuning LLMs](https://huggingface.co/docs/transformers/training)
-- [ ] ML Ops/Practitioning
+- [ ] ML Ops
 
 Learning these topics will generate more blog/youtube posts. Subscribe to this blog via [RSS](/index.xml) to keep up to date.
 
