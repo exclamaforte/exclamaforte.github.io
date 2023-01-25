@@ -22,15 +22,15 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-#cover:
-#    image: "images/test.png" # image path/url
-#    alt: "<alt text>" # alt text
-#    caption: "<text>" # display caption under cover
-#    relative: false # when using page bundles set this to true
-#    hidden: false # only hide on current single page
+cover:
+   image: "images/12-painter.png" # image path/url
+   alt: "AI generated image of a man painting a calendar" # alt text
+   caption: "How many months are there in a year?" # display caption under cover
+   relative: false # when using page bundles set this to true
+   hidden: false # only hide on current single page
 ---
 
-Starting with January 2023, my goal is to ship 12 products in 12 months. I've been meaning to tackle this goal for awhile, and 2023 seems like the perfect time to start.
+Starting with January 2023, my goal is to ship 12 products in 12 months.
 
 # Why not focus on one product?
 My goal is not to create the next [unicorn](https://en.wikipedia.org/wiki/Unicorn_(finance)), but rather to learn as much as I can about the technologies I'm interested in, while increasing my ability to [always be shipping](https://blog.codinghorror.com/yes-but-what-have-you-done/).
