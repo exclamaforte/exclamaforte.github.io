@@ -52,6 +52,11 @@ In contrast, cloud setups have the advantage of requiring zero setup or know-how
 
 Coqui allows you to train the models to match whatever voice you want, but I'm not sure how difficult that is.
 
+Here is the command to generate the example:
+```bash
+$ tts --text "..." --out_path coqui-ai.wav
+```
+
 ### [Tortise TTS](https://github.com/neonbjb/tortoise-tts)
 
 [Tortise](https://github.com/neonbjb/tortoise-tts) is very computationally intensive to run, so decent hardware with an NVidia GPU is required to make this work. I find the output to be better than Google or Coqui, but slightly worse than Eleven. See [output examples here](https://nonint.com/static/tortoise_v2_examples.html).
@@ -126,13 +131,13 @@ get_tts(text_string, "google-tts.mp3", tts_setup("en-US-Neural2-J"))
 
 They require an attribution on the free plan; their higher tiers remove this requirement.
 
-The pricing is 10,000 characters for the free tier, 60,000 characters for 22$, or 0.1723 cents per word, making them relatively costly. It's clear they're positioning themselves to be a direct replacement replacement to professional work, and at those prices I would expect nothing less.
+The pricing is 10,000 characters for the free tier, 60,000 characters for 22$, or 0.1723 cents per word, making them relatively costly. It's clear they're positioning themselves to be a direct replacement replacement to professional work, and at those prices I would expect nothing less than professional quality.
 
-They make it very easy to clone voices, requiring only a few vocal samples. From my tests, they seem to be the best available option.
+They make it very easy to clone voices, requiring only a few vocal samples. From my tests, they seem to be the best available turn-key option for cloning voices.
 
 ### [Hiring a Human on Fiverr](https://go.fiverr.com/visit/?bta=649953&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2Fcategories%2Fmusic-audio%2Fvoice-overs)
 How does all of this compare to [hiring a human on Fiverr](https://go.fiverr.com/visit/?bta=649953&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2Fcategories%2Fmusic-audio%2Fvoice-overs)? Voiceover artists on Fiver will charge around 5-25$ per 150 words, or 3.33 cents per word. The obvious benefit for working with a human as they are perfectly human-sounding. The downside is that they can take up to 2 days to produce the final product and there's no programmatic API yet. Paging NeuraLink.
 
 ## Conclusion
 
-I'm planning on using Google Cloud TTS to generate voiceovers for this blog. It gives great quality results and it is relatively inexpensive. Tortise seems extremely effective and re-training it to generate voices seems like a lot of fun. If I ever get around to building my home ML server, I plan on switching. Maybe some day.
+I'm planning on using Google Cloud TTS to generate voiceovers for this blog. It gives great quality results and it is relatively inexpensive. Tortise seems extremely effective and re-training it to generate voices seems like a lot of fun. If I ever get around to building my home ML server, I plan on switching. Maybe when my electricity is cheaper than $0.30 / kWh I'll get around to it.
