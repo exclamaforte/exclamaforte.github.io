@@ -1,16 +1,15 @@
 ---
-title: "12 Products in 12 Months \U0001F4C5"
+title: "12 Projects in 12 Months \U0001F4C5"
 date: 2023-01-25T02:19:29-08:00
 draft: true
 tags: ["12in12"]
-author: "Me"
+author: "Gabriel Ferns"
 #showToc: true
 #TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-#description: "12 Products in 12 months 2023"
-canonicalURL: "https://canonical.url/to/page"
+#description: "12 Projects in 12 months 2023"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -25,12 +24,12 @@ UseHugoToc: true
 cover:
    image: "images/12-painter.png" # image path/url
    alt: "AI generated image of a man painting a calendar" # alt text
-   caption: "How many months are there in a year?" # display caption under cover
+   #caption: "" # display caption under cover
    relative: false # when using page bundles set this to true
    hidden: false # only hide on current single page
 ---
 
-Starting with January 2023, my goal is to ship 12 products in 12 months.
+Starting with January 2023, my goal is to ship 12 projects in 12 months.
 
 # Why not focus on one product?
 My goal is not to create the next [unicorn](https://en.wikipedia.org/wiki/Unicorn_(finance)), but rather to learn as much as I can about the technologies I'm interested in, while increasing my ability to [always be shipping](https://blog.codinghorror.com/yes-but-what-have-you-done/).

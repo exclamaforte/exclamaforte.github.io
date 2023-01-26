@@ -9,14 +9,23 @@
       <link>https://exclamaforte.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 25 Jan 2023 02:19:29 -0800</lastBuildDate><atom:link href="https://exclamaforte.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jan 2023 15:04:19 -0800</lastBuildDate><atom:link href="https://exclamaforte.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>12 Products in 12 Months 📅</title>
+      <title>The Best AI Text-to-Speech Tools in 2023</title>
+      <link>https://exclamaforte.github.io/posts/evaluating-tts-products/</link>
+      <pubDate>Wed, 25 Jan 2023 15:04:19 -0800</pubDate>
+      
+      <guid>https://exclamaforte.github.io/posts/evaluating-tts-products/</guid>
+      <description>Let&amp;#39;s see if robots can talk good.</description>
+    </item>
+    
+    <item>
+      <title>12 Projects in 12 Months 📅</title>
       <link>https://exclamaforte.github.io/posts/12-projects-in-12-months/</link>
       <pubDate>Wed, 25 Jan 2023 02:19:29 -0800</pubDate>
       
       <guid>https://exclamaforte.github.io/posts/12-projects-in-12-months/</guid>
-      <description>Starting with January 2023, my goal is to ship 12 products in 12 months.
+      <description>Starting with January 2023, my goal is to ship 12 projects in 12 months.
 Why not focus on one product? My goal is not to create the next unicorn, but rather to learn as much as I can about the technologies I&amp;rsquo;m interested in, while increasing my ability to always be shipping.
 Learning Goals Basic Product Development Basic UI/UX Fine tuning LLMs ML Ops Learning these topics will generate more blog/youtube posts.</description>
     </item>

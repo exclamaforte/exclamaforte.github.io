@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://exclamaforte.github.io/</loc>
+    <lastmod>2023-01-25T15:04:19-08:00</lastmod>
+  </url><url>
+    <loc>https://exclamaforte.github.io/tags/ml-models/</loc>
+    <lastmod>2023-01-25T15:04:19-08:00</lastmod>
+  </url><url>
+    <loc>https://exclamaforte.github.io/posts/</loc>
+    <lastmod>2023-01-25T15:04:19-08:00</lastmod>
+  </url><url>
+    <loc>https://exclamaforte.github.io/tags/</loc>
+    <lastmod>2023-01-25T15:04:19-08:00</lastmod>
+  </url><url>
+    <loc>https://exclamaforte.github.io/tags/text-to-speech/</loc>
+    <lastmod>2023-01-25T15:04:19-08:00</lastmod>
+  </url><url>
+    <loc>https://exclamaforte.github.io/posts/evaluating-tts-products/</loc>
+    <lastmod>2023-01-25T15:04:19-08:00</lastmod>
+  </url><url>
     <loc>https://exclamaforte.github.io/posts/12-projects-in-12-months/</loc>
     <lastmod>2023-01-25T02:19:29-08:00</lastmod>
   </url><url>
     <loc>https://exclamaforte.github.io/tags/12in12/</loc>
     <lastmod>2023-01-25T02:19:29-08:00</lastmod>
   </url><url>
-    <loc>https://exclamaforte.github.io/</loc>
-    <lastmod>2023-01-25T02:19:29-08:00</lastmod>
-  </url><url>
     <loc>https://exclamaforte.github.io/posts/january-launch/</loc>
     <lastmod>2023-01-25T02:19:29-08:00</lastmod>
   </url><url>
-    <loc>https://exclamaforte.github.io/posts/</loc>
-    <lastmod>2023-01-25T02:19:29-08:00</lastmod>
-  </url><url>
     <loc>https://exclamaforte.github.io/tags/projects/</loc>
-    <lastmod>2023-01-25T02:19:29-08:00</lastmod>
-  </url><url>
-    <loc>https://exclamaforte.github.io/tags/</loc>
     <lastmod>2023-01-25T02:19:29-08:00</lastmod>
   </url><url>
     <loc>https://exclamaforte.github.io/categories/</loc>
